@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "61654628298",
+    "project_id": "mvpfirebase-fb103",
+    "storage_bucket": "mvpfirebase-fb103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61654628298:android:3704005996952aa9bc4133",
+        "android_client_info": {
+          "package_name": "com.example.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61654628298-24d4h0unc1ivud2to24pp85hi650tuo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbud4hyqbJMhf3bD_bfEVgLFYu--xj9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61654628298-24d4h0unc1ivud2to24pp85hi650tuo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61654628298-00l59p4bg6ndk1cu5abrd5celkpdam3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mvp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
